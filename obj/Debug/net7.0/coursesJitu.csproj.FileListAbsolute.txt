@@ -1,0 +1,15 @@
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\bin\Debug\net7.0\coursesJitu.exe
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\bin\Debug\net7.0\coursesJitu.deps.json
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\bin\Debug\net7.0\coursesJitu.runtimeconfig.json
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\bin\Debug\net7.0\coursesJitu.dll
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\bin\Debug\net7.0\coursesJitu.pdb
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.dll
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\refint\coursesJitu.dll
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.pdb
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\coursesJitu.genruntimeconfig.cache
+C:\Users\Lenovo Ideapad S340\source\repos\coursesJitu\obj\Debug\net7.0\ref\coursesJitu.dll
